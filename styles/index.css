@@ -1,0 +1,114 @@
+body {
+    margin: 0px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightsalmon;
+    align-items: center;
+
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0;
+    height: 60px;
+    z-index: 2;
+    
+}
+
+.logo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: brown; 
+    padding: 10px;
+}
+
+.searchContainer {
+    flex: 1;
+    max-width: 850px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.searchBox {
+    flex: 1;
+    width: 0;
+    font-size: 16px;
+    height: 38px;
+    padding-left: 15px;
+    border: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+        
+}
+
+.searchButtonContainer {
+    background-color:blanchedalmond;
+    border: none;
+    width: 45px;
+    height: 40px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    flex-shrink: 0;
+}
+
+.searchIcon {
+    height: 22px;
+    margin-left: 2px;
+    margin-top: 3px;
+}
+
+
+.cartContainer {
+    color: black;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 10px;
+}
+
+.cartIcon {
+    width: 50px;
+}
+
+.cartText {
+    margin-top: 12px;
+    font-size: 15px;
+    font-weight: 700px;
+}
+
+.cartQuantit {
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+
+    position: absolute;
+    top: 4px;
+    left: 22px;
+    
+    width: 26px;
+    text-align: center;
+}
+
+.dealsProducts {
+    height: 150px;
+}
+
+.product-name {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.aboutUs {
+    margin-left: 10px;
+}
+
+.aboutHeader {
+    text-align: center;
+}
+

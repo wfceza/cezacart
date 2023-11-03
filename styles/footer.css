@@ -1,0 +1,28 @@
+.contactSection {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-right: none;
+    background-color: lightsalmon;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    color: white;
+    background-color: rgb(235, 173, 148);
+    
+    
+}
+
+
