@@ -1,10 +1,10 @@
 const kitchenProducts = [
     {
         id: "54e0eccd-8f36-462b-b68a-8182611d9add",
-        image: "images/products/black-2-slot-toaster.jpg",
+        image: "./products/black-2-slot-toaster.jpg",
         name: "2 Slot Toaster - Black",
         rating: {
-          stars: 'images/ratings/rating-50.png',
+          stars: './ratings/rating-50.png',
           count: 2197
         },
         priceCents: '10,000',
@@ -16,10 +16,10 @@ const kitchenProducts = [
       },
       {
         id: "3fdfe8d6-9a15-4979-b459-585b0d0545b9",
-        image: "images/products/liquid-laundry-detergent-plain.jpg",
+        image: "./products/liquid-laundry-detergent-plain.jpg",
         name: "Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 305
         },
         priceCents: '2,899',
@@ -30,10 +30,10 @@ const kitchenProducts = [
       },
       {
         id: "c2a82c5e-aff4-435f-9975-517cfaba2ece",
-        image: "images/products/electric-glass-and-steel-hot-water-kettle.webp",
+        image: "./products/electric-glass-and-steel-hot-water-kettle.webp",
         name: "Electric Glass and Steel Hot Tea Water Kettle - 1.7-Liter",
         rating: {
-          stars: 'images/ratings/rating-50.png',
+          stars: './ratings/rating-50.png',
           count: 846
         },
         priceCents: '8,000',
@@ -45,10 +45,10 @@ const kitchenProducts = [
       },
       {
         id: "4e37dd03-3b23-4bc6-9ff8-44e112a92c64",
-        image: "images/products/non-stick-cooking-set-15-pieces.webp",
+        image: "./products/non-stick-cooking-set-15-pieces.webp",
         name: "Non-Stick Cookware Set,Utensils - 15 Pieces",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 511
         },
         priceCents: '25,000',
@@ -59,10 +59,10 @@ const kitchenProducts = [
       },
       {
         id: "d37a651a-d501-483b-aae6-a9659b0757a0",
-        image: "images/products/round-airtight-food-storage-containers.jpg",
+        image: "./products/round-airtight-food-storage-containers.jpg",
         name: "Round Airtight Food Storage Containers - 5 Piece",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: './ratings/rating-40.png',
           count: 126
         },
         priceCents: 2899,
@@ -74,10 +74,10 @@ const kitchenProducts = [
       },
       {
         id: "0d7f9afa-2efe-4fd9-b0fd-ba5663e0a524",
-        image: "images/products/coffeemaker-with-glass-carafe-black.jpg",
+        image: "./products/coffeemaker-with-glass-carafe-black.jpg",
         name: "Coffeemaker with Reusable Filter - 25 Oz, Black",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 1211
         },
         priceCents: '15,000',
@@ -89,10 +89,10 @@ const kitchenProducts = [
       },
       {
         id: "77a845b1-16ed-4eac-bdf9-5b591882113d",
-        image: "images/products/countertop-blender-64-oz.jpg",
+        image: "./products/countertop-blender-64-oz.jpg",
         name: "Countertop Blender - 64oz, 1400 Watts",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: './ratings/rating-40.png',
           count: 3
         },
         priceCents: '14,500',
@@ -104,10 +104,10 @@ const kitchenProducts = [
       },
       {
         id: "36c64692-677f-4f58-b5ec-0dc2cf109e27",
-        image: "images/products/floral-mixing-bowl-set.jpg",
+        image: "./products/floral-mixing-bowl-set.jpg",
         name: "10-Piece Mixing Bowl Set with Lids - Floral",
         rating: {
-          stars: 'images/ratings/rating-50.png',
+          stars: './ratings/rating-50.png',
           count: 679
         },
         priceCents: '6,899',
