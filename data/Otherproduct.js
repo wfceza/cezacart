@@ -4,7 +4,7 @@ const otherProducts = [
         image: "images/products/intermediate-composite-basketball.jpg",
         name: "Intermediate Size Basketball",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: './ratings/rating-40.png',
           count: 127
         },
         priceCents: '6,899',
@@ -18,7 +18,7 @@ const otherProducts = [
         image: "images/products/luxury-tower-set-6-piece.jpg",
         name: "Luxury Towel Set - Graphite Gray",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 144
         },
         priceCents: '5,000',
@@ -35,7 +35,7 @@ const otherProducts = [
         image: "images/products/liquid-laundry-detergent-plain.jpg",
         name: "Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 305
         },
         priceCents: '2,899',
@@ -49,7 +49,7 @@ const otherProducts = [
         image: "images/products/round-sunglasses-black.jpg",
         name: "Round Sunglasses",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 30
         },
         priceCents: '1,560',
@@ -63,7 +63,7 @@ const otherProducts = [
         image: "images/products/blackout-curtain-set-beige.webp",
         name: "Blackout Curtains Set 4-Pack - Beige",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 232
         },
         priceCents: '7,000',
@@ -78,7 +78,7 @@ const otherProducts = [
         image: "images/products/facial-tissue-2-ply-18-boxes.jpg",
         name: "Ultra Soft Tissue 2-Ply - 18 Box",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: './ratings/rating-40.png',
           count: 99
         },
         priceCents: '2,374',
@@ -95,7 +95,7 @@ const otherProducts = [
         image: "images/products/straw-sunhat.webp",
         name: "Straw Lifeguard Sun Hat",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: './ratings/rating-40.png',
           count: 215
         },
         priceCents: '2,200',
@@ -111,7 +111,7 @@ const otherProducts = [
         image: "images/products/bathroom-rug.jpg",
         name: "Bathroom Bath Rug Mat 20 x 31 Inch - Grey",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 119
         },
         priceCents: '4,200',
@@ -126,7 +126,7 @@ const otherProducts = [
         image: "images/products/duvet-cover-set-blue-twin.jpg",
         name: "Duvet Cover Set with Zipper Closure",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: './ratings/rating-40.png',
           count: 456
         },
         priceCents: '10,000',
@@ -143,7 +143,7 @@ const otherProducts = [
         image: "images/products/vanity-mirror-silver.jpg",
         name: "Vanity Mirror with Heavy Base - Chrome",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 130
         },
         priceCents: '7,000',
@@ -159,7 +159,7 @@ const otherProducts = [
         image: "images/products/blackout-curtains-black.jpg",
         name: "Blackout Curtains Set 42 x 84-Inch - Black, 2 Panels",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 363
         },
         priceCents: '10,399',
@@ -173,7 +173,7 @@ const otherProducts = [
         image: "images/products/cotton-bath-towels-teal.webp",
         name: "100% Cotton Bath Towels - 2 Pack, Light Teal",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 93
         },
         priceCents: '4,599',
