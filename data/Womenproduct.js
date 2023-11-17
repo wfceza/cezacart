@@ -20,7 +20,7 @@ const womenProducts = [
       },
       {
         id: "e4f64a65-1377-42bc-89a5-e572d19252e2",
-        image: "images/products/sky-flower-stud-earrings.webp",
+        image: "./products/sky-flower-stud-earrings.webp",
         name: "Sterling Silver Sky Flower Stud Earrings",
         rating: {
           stars: "./ratings/rating-45.png",
@@ -35,7 +35,7 @@ const womenProducts = [
       },
       {
         id: "b0f17cc5-8b40-4ca5-9142-b61fe3d98c85",
-        image: "images/products/women-stretch-popover-hoodie-black.jpg",
+        image: "./products/women-stretch-popover-hoodie-black.jpg",
         name: "Women's Stretch Popover Hoodie",
         rating: {
           stars: "./ratings/rating-45.png",
@@ -88,7 +88,7 @@ const womenProducts = [
       },
       {
         id: "a45cfa0a-66d6-4dc7-9475-e2b01595f7d7",
-        image: "images/products/women-french-terry-fleece-jogger-camo.jpg",
+        image: "./products/women-french-terry-fleece-jogger-camo.jpg",
         name: "Women's Fleece Jogger Sweatpant",
         rating: {
           stars: "./ratings/rating-45.png",
