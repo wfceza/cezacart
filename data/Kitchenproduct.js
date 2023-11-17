@@ -123,7 +123,7 @@ const kitchenProducts = [
         image: "images/products/kitchen-paper-towels-30-pack.jpg",
         name: "2-Ply Kitchen Paper Towels - 30 Pack",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: './ratings/rating-45.png',
           count: 1045
         },
         priceCents: '999',
