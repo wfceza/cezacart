@@ -1,7 +1,7 @@
 const otherProducts = [
     {
         id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
-        image: "images/products/intermediate-composite-basketball.jpg",
+        image: "./products/intermediate-composite-basketball.jpg",
         name: "Intermediate Size Basketball",
         rating: {
           stars: './ratings/rating-40.png',
@@ -15,7 +15,7 @@ const otherProducts = [
       },
       {
         id: "77919bbe-0e56-475b-adde-4f24dfed3a04",
-        image: "images/products/luxury-tower-set-6-piece.jpg",
+        image: "./products/luxury-tower-set-6-piece.jpg",
         name: "Luxury Towel Set - Graphite Gray",
         rating: {
           stars: './ratings/rating-45.png',
@@ -32,7 +32,7 @@ const otherProducts = [
       },
       {
         id: "3fdfe8d6-9a15-4979-b459-585b0d0545b9",
-        image: "images/products/liquid-laundry-detergent-plain.jpg",
+        image: "./products/liquid-laundry-detergent-plain.jpg",
         name: "Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",
         rating: {
           stars: './ratings/rating-45.png',
@@ -46,7 +46,7 @@ const otherProducts = [
       },
       {
         id: "aad29d11-ea98-41ee-9285-b916638cac4a",
-        image: "images/products/round-sunglasses-black.jpg",
+        image: "./products/round-sunglasses-black.jpg",
         name: "Round Sunglasses",
         rating: {
           stars: './ratings/rating-45.png',
@@ -60,7 +60,7 @@ const otherProducts = [
       },
       {
         id: "901eb2ca-386d-432e-82f0-6fb1ee7bf969",
-        image: "images/products/blackout-curtain-set-beige.webp",
+        image: "./products/blackout-curtain-set-beige.webp",
         name: "Blackout Curtains Set 4-Pack - Beige",
         rating: {
           stars: './ratings/rating-45.png',
@@ -75,7 +75,7 @@ const otherProducts = [
       },
       {
         id: "6b07d4e7-f540-454e-8a1e-363f25dbae7d",
-        image: "images/products/facial-tissue-2-ply-18-boxes.jpg",
+        image: "./products/facial-tissue-2-ply-18-boxes.jpg",
         name: "Ultra Soft Tissue 2-Ply - 18 Box",
         rating: {
           stars: './ratings/rating-40.png',
@@ -92,7 +92,7 @@ const otherProducts = [
       },
       {
         id: "a82c6bac-3067-4e68-a5ba-d827ac0be010",
-        image: "images/products/straw-sunhat.webp",
+        image: "./products/straw-sunhat.webp",
         name: "Straw Lifeguard Sun Hat",
         rating: {
           stars: './ratings/rating-40.png',
@@ -108,7 +108,7 @@ const otherProducts = [
       },
       {
         id: "a93a101d-79ef-4cf3-a6cf-6dbe532a1b4a",
-        image: "images/products/bathroom-rug.jpg",
+        image: "./products/bathroom-rug.jpg",
         name: "Bathroom Bath Rug Mat 20 x 31 Inch - Grey",
         rating: {
           stars: './ratings/rating-45.png',
@@ -123,7 +123,7 @@ const otherProducts = [
       },
       {
         id: "19c6a64a-5463-4d45-9af8-e41140a4100c",
-        image: "images/products/duvet-cover-set-blue-twin.jpg",
+        image: "./products/duvet-cover-set-blue-twin.jpg",
         name: "Duvet Cover Set with Zipper Closure",
         rating: {
           stars: './ratings/rating-40.png',
@@ -140,7 +140,7 @@ const otherProducts = [
       },
       {
         id: "a434b69f-1bc1-482d-9ce7-cd7f4a66ce8d",
-        image: "images/products/vanity-mirror-silver.jpg",
+        image: "./products/vanity-mirror-silver.jpg",
         name: "Vanity Mirror with Heavy Base - Chrome",
         rating: {
           stars: './ratings/rating-45.png',
@@ -156,7 +156,7 @@ const otherProducts = [
       },
       {
         id: "02e3a47e-dd68-467e-9f71-8bf6f723fdae",
-        image: "images/products/blackout-curtains-black.jpg",
+        image: "./products/blackout-curtains-black.jpg",
         name: "Blackout Curtains Set 42 x 84-Inch - Black, 2 Panels",
         rating: {
           stars: './ratings/rating-45.png',
@@ -170,7 +170,7 @@ const otherProducts = [
       },
       {
         id: "8a53b080-6d40-4a65-ab26-b24ecf700bce",
-        image: "images/products/cotton-bath-towels-teal.webp",
+        image: "./products/cotton-bath-towels-teal.webp",
         name: "100% Cotton Bath Towels - 2 Pack, Light Teal",
         rating: {
           stars: './ratings/rating-45.png',
