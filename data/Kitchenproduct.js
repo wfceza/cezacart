@@ -120,7 +120,7 @@ const kitchenProducts = [
       },
       {
         id: "aaa65ef3-8d6f-4eb3-bc9b-a6ea49047d8f",
-        image: "images/products/kitchen-paper-towels-30-pack.jpg",
+        image: "/products/kitchen-paper-towels-30-pack.jpg",
         name: "2-Ply Kitchen Paper Towels - 30 Pack",
         rating: {
           stars: './ratings/rating-45.png',
