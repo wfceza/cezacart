@@ -1,10 +1,10 @@
 const womenProducts = [
     {
         id: "5968897c-4d27-4872-89f6-5bcb052746d7",
-        image: "images/products/women-chiffon-beachwear-coverup-black.jpg",
+        image: "./products/women-chiffon-beachwear-coverup-black.jpg",
         name: "Women's Chiffon Beachwear - Black",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: "./ratings/rating-45.png",
           count: 235
         },
         priceCents: 2070,
@@ -16,14 +16,14 @@ const womenProducts = [
           "apparel"
         ],
         type: "clothing",
-        sizeChartLink: "images/clothing-size-chart.png"
+        sizeChartLink: "./clothing-size-chart.png"
       },
       {
         id: "e4f64a65-1377-42bc-89a5-e572d19252e2",
         image: "images/products/sky-flower-stud-earrings.webp",
         name: "Sterling Silver Sky Flower Stud Earrings",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: "./ratings/rating-45.png",
           count: 52
         },
         priceCents: 1799,
@@ -38,7 +38,7 @@ const womenProducts = [
         image: "images/products/women-stretch-popover-hoodie-black.jpg",
         name: "Women's Stretch Popover Hoodie",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: "./ratings/rating-45.png",
           count: 2465
         },
         priceCents: 1374,
@@ -50,14 +50,14 @@ const womenProducts = [
           "apparel"
         ],
         type: "clothing",
-        sizeChartLink: "images/clothing-size-chart.png"
+        sizeChartLink: "./clothing-size-chart.png"
       },
       {
         id: "4f4fbcc2-4e72-45cc-935c-9e13d79cc57f",
-        image: "images/products/women-knit-ballet-flat-black.jpg",
+        image: "./products/women-knit-ballet-flat-black.jpg",
         name: "Women's Knit Ballet Flat",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: "./ratings/rating-40.png"
           count: 326
         },
         priceCents: 2640,
@@ -70,10 +70,10 @@ const womenProducts = [
       },
       {
         id: "d2785924-743d-49b3-8f03-ec258e640503",
-        image: "images/products/women-chunky-beanie-gray.webp",
+        image: "./products/women-chunky-beanie-gray.webp",
         name: "Women's Chunky Cable Beanie - Gray",
         rating: {
-          stars: 'images/ratings/rating-50.png',
+          stars: "./ratings/rating-50.png",
           count: 83
         },
         priceCents: 1250,
@@ -91,7 +91,7 @@ const womenProducts = [
         image: "images/products/women-french-terry-fleece-jogger-camo.jpg",
         name: "Women's Fleece Jogger Sweatpant",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: "./ratings/rating-45.png",
           count: 248
         },
         priceCents: 2400,
@@ -105,10 +105,10 @@ const womenProducts = [
       },
       {
         id: "d339adf3-e004-4c20-a120-40e8874c66cb",
-        image: "images/products/double-elongated-twist-french-wire-earrings.webp",
+        image: "./products/double-elongated-twist-french-wire-earrings.webp",
         name: "Double Oval Twist French Wire Earrings - Gold",
         rating: {
-          stars: 'images/ratings/rating-45.png',
+          stars: "./ratings/rating-45.png",
           count: 117
         },
         priceCents: 2400,
@@ -119,10 +119,10 @@ const womenProducts = [
       },
       {
         id: "10ed8504-57db-433c-b0a3-fc71a35c88a1",
-        image: "images/products/knit-athletic-sneakers-pink.webp",
+        image: "./products/knit-athletic-sneakers-pink.webp",
         name: "Waterproof Knit Athletic Sneakers - Pink",
         rating: {
-          stars: 'images/ratings/rating-40.png',
+          stars: "./ratings/rating-40.png",
           count: 89
         },
         priceCents: 3390,
