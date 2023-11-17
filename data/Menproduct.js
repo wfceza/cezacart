@@ -18,7 +18,7 @@ const menProducts = [
       },
       {
         id: "dd82ca78-a18b-4e2a-9250-31e67412f98d",
-        image: "images/products/plain-hooded-fleece-sweatshirt-yellow.jpg",
+        image: "./products/plain-hooded-fleece-sweatshirt-yellow.jpg",
         name: "Plain Hooded Fleece Sweatshirt",
         rating: {
           stars: './ratings/rating-45.png',
